@@ -1,1 +1,1 @@
-# Basics of Coding .Net Interactive Notebooks
+# Basics of .Net Interactive Notebooks
